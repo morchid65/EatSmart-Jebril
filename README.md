@@ -39,9 +39,6 @@
 - **Base de données :** (Technologies prévues)
 
 ---
-Parfait, voici une version complète et cohérente de la documentation du projet **EatSmart**, en tenant compte du fait que le nom ne fait pas référence à la nutrition. Le projet peut être une application de gestion, de réservation, ou autre selon votre intention — je vais donc proposer une version générique adaptable :
-
----
 
 # **Projet : EatSmart**
 
